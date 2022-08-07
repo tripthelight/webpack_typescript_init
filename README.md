@@ -1,3 +1,3 @@
-1. window power-shell setting :
+1. window typescript power-shell setting :
 - Get-ExecutionPolicy
 - Set-ExecutionPolicy RemoteSigned
